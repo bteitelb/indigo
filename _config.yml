@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: resume.html
 
-url: http://ben.teitelbaum.us
+url: https://ben.teitelbaum.us
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
