@@ -10,4 +10,4 @@ Earlier in his career, Ben led applied networking research initiatives at Intern
 
 Earlier in his career, Ben contributed to the Cecil programming language and wrote a Smalltalk binding for the SHORE persistent object store. 
 
-Ben has degrees from [MIT](https://math.mit.edu/) in Mathematics and the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) in Computer Science.
+Ben has degrees from MIT in Mathematics and the University of Wisconsin–Madison in Computer Science.
